@@ -1,6 +1,6 @@
 # KeyOverlay
 
-YEP rip-off
+![YEP](https://streamsentials.com/wp-content/uploads/yep-twitch-emote.png) rip-off
 
 ## How to run
 
