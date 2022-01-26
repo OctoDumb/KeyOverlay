@@ -1,0 +1,56 @@
+{
+    "window": {
+        "width": 700,
+        "height": 600,
+        "transparent": true,
+        "fps": 60
+    },
+    "key": {
+        "border": "#4400CC",
+        "background": "#123",
+        "text": "#FFFFFF",
+        "fill": "#123456",
+        "font": "Comfortaa.ttf",
+        "border_size": 3,
+        "size": 70,
+        "margin": 20,
+        "text_size": 50,
+        "rounded": true,
+        "radius": 8,
+        "hold": {
+            "color": "#aaaaaa99",
+            "size": 50,
+            "time": 2000
+        }
+    },
+    "keys": [
+        {
+            "name": "S",
+            "key": "S"
+        },
+        {
+            "name": "D",
+            "key": "D"
+        },
+        {
+            "name": "F",
+            "key": "F"
+        },
+        {
+            "name": "J",
+            "key": "J"
+        },
+        {
+            "name": "K",
+            "key": "K"
+        },
+        {
+            "name": "L",
+            "key": "L"
+        }
+    ],
+    "fade": {
+        "size": 200,
+        "side": 0
+    }
+}
